@@ -10,7 +10,7 @@ function Auther() {
       <MiniHero title="Author" />
       <div className="main-container pt-16 mb-16 m-auto flex flex-col justify-center">
         <div id='impdates' className="date-container mx-[80px] ">
-            <h1 className='uppercase text-[#31A649] pb-3  text-4xl'>Important Dates</h1>
+            <h1 className='uppercase text-[#31619Eff] pb-3  text-4xl'>Important Dates</h1>
             <Dates />
         </div>
         <br />
@@ -23,7 +23,7 @@ function Auther() {
         <div className="line border  mx-[80px] my-[40px]"></div>
         <br />
         <div id='callforpapers' className="call mx-[80px]">
-            <h1 className='uppercase text-[#31A649] pb-3  text-4xl'>Call for Papers</h1>
+            <h1 className='uppercase text-[#31619Eff] pb-3  text-4xl'>Call for Papers</h1>
             <ul>
                 <li>
                     <a href=""><p className='text-blue-800 underline'>  Download Call For Papers in PDF</p></a>
@@ -35,7 +35,7 @@ function Auther() {
         <br />
 
         <div id='submitpaper' className="submission mx-[80px]">
-            <h1 className='uppercase text-[#31A649] pb-3  text-4xl'>Paper Submission</h1>
+            <h1 className='uppercase text-[#31619Eff] pb-3  text-4xl'>Paper Submission</h1>
             <br />
             <p>{paras.para1}</p>
             <br />

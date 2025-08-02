@@ -4,7 +4,7 @@ function About2() {
   return (
     <div className='bg-[#fafafa] flex m-auto w-full justify-center p-[50px]'>
         <div className="container">
-            <h1 className='uppercase text-[#31A649]  mb-2 text-xl' >ABOUT SOCIETY FOR INCLUSIVE RESEARCH AND SUSTAINABLE DEVELOPMENT</h1>
+            <h1 className='uppercase text-[#31619Eff]  mb-2 text-xl' >ABOUT SOCIETY FOR INCLUSIVE RESEARCH AND SUSTAINABLE DEVELOPMENT</h1>
             <br />
             <div className="data-holder flex flex-wrap">
                 <div className="left w-[50%]">
@@ -20,7 +20,7 @@ function About2() {
                 </div>
             </div>
             <br />
-            <h1 className='uppercase text-[#31A649]  mb-2 text-xl' >ABOUT SIRSD</h1>
+            <h1 className='uppercase text-[#31619Eff]  mb-2 text-xl' >ABOUT SIRSD</h1>
             <p>{aboutbot[0]}</p>
             <br />
         </div>

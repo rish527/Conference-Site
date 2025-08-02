@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import {contactData} from '../Data/contactData.js'
-
+import logo from '../assets/logo.png'
 function Footer() {
     const [ind, setInd]=useState(0)
     const [contact, setContact]=useState(contactData[ind]);
@@ -15,7 +15,7 @@ function Footer() {
     // console.log(contact[0]);
   return (
     <div id='webfoot'>
-        <div className='bg-[#31A649] w-full text-white flex justify-center items-center py-12'>
+        <div className='bg-[#31619Eff] w-full text-white flex justify-center items-center py-12'>
             <div className="container mx-auto flex flex-col">
                 <div className="head mb-9 px-3 text-center text-[2rem]">CONTACT US</div>
                 <nav className='flex foot justify-center'>
@@ -46,7 +46,7 @@ function Footer() {
         </div>
         <div className="foot-bot flex justify-center py-5">
             <div className="container flex items-center justify-evenly">
-                <div className='w-[330px]'><img className='w-[53px]' src="https://estsd2025.sirsd.com/assets/images/logo.png" alt="" /></div>
+                <div className='w-[330px]'><img className='w-[53px]' src={logo} alt="" /></div>
                 <div className='w-[330px]'><img src="https://estsd2025.sirsd.com/assets/images/ext-logo.jpg" alt="" /></div>
                 <div className='w-[330px]'><img className='w-[210px]' src="https://estsd2025.sirsd.com/assets/images/springer.JPG" alt="" /></div>
                 <div className='w-[330px]'>

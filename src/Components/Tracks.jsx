@@ -6,7 +6,7 @@ function Tracks() {
         <div className="container flex flex-wrap justify-center m-auto">
             {tracks.tracks.map((track,index)=>(
                 <div key={index} className="track w-[50%] mb-5">
-                    <h1 className='uppercase text-[#31A649]  mb-2 text-xl' key={index}>Track-{index+1}. {track.head}</h1>
+                    <h1 className='uppercase text-[#31619Eff]  mb-2 text-xl' key={index}>Track-{index+1}. {track.head}</h1>
                     <ul className=' pb-5'>
                         {track.data.map((m, index) => (
                             <li 

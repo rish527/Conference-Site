@@ -53,7 +53,7 @@
 }
 
 .hero-btn{
-    background: #31A649;
+    background: #31619Eff;
     border-radius: 5px;
     border: 0;
     padding: 14px 40px;
@@ -71,7 +71,7 @@
     display: inline-block;
     font-size: 12px;
     text-align: center;
-    border:1px solid #31A649 ;
+    border:1px solid #31619Eff ;
     border-radius: 4px;
     overflow: hidden;
     font-weight: 500;
@@ -81,7 +81,7 @@
 }
 .timer div .num{
     padding: 10px;
-    background-color: #31A649;
+    background-color: #31619Eff;
     color: #fff;
     font-size: 27px;
     line-height: 25px;
@@ -119,7 +119,7 @@
 }
 
 #mini-hero{
-    /* background-color: #31A649; */
+    /* background-color: #31619Eff; */
     /* background-image: url('../assets/images/banner.webp'); */
     position: relative;
     background-image: url('https://estsd2025.sirsd.com/assets/images/inner-page-banner.jpg');

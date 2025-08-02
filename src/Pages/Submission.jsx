@@ -10,7 +10,7 @@ function Submission() {
         <MiniHero title="Paper Submission" />
         <div className='mt-11 mb-11'>
             <div className="submission mx-[80px]">
-                <h1 className='uppercase text-[#31A649] pb-3  text-2xl'>Paper Submission</h1>
+                <h1 className='uppercase text-[#31619Eff] pb-3  text-2xl'>Paper Submission</h1>
                 <br />
                 <p>{paras.para1}</p>
                 <br />

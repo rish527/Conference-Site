@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo.webp'
+import logo from '../assets/logo.png'
 import shardalogo from '../assets/sharda-logo.webp'
 import springerlogo from '../assets/springer.webp'
 import './componet.css'
@@ -13,7 +13,7 @@ function Navbar() {
               <div className="left w-[25%]">
                 <a href=""><div className="logo flex items-center">
                     <img className='h-14 w-14' src={logo} alt="" />
-                    <p className='text-[#0582b6] font-bold text-[46px]' >SIRSD</p>
+                    <p className='text-[#31619Eff] font-bold text-[46px]' >ICEAET</p>
                 </div></a>
             </div>
             <div className="mid w-[33.333%]">
@@ -31,7 +31,7 @@ function Navbar() {
         </div>
         <div className="nav-bottom">
           <nav>
-            <div id="navbarnav" className='flex  justify-center h-[50px] bg-[#31A649]'>
+            <div id="navbarnav" className='flex  justify-center h-[50px] bg-[#31619Eff]'>
               <ul className='nav-items items flex items-center justify-evenly w-full h-full text-white'>
                 <li >
                   <a href="/"><p>Home</p></a>
@@ -48,18 +48,11 @@ function Navbar() {
                   </div>
                 </li>
                 <li>
-                  <a href=""><p>Committe</p></a>
-                  <div className="dropdown">
-                    <ul className='dropdown-menu'>
-                      <li>Patrons and Chairs</li>
-                      <li>Advisory Commitee</li>
-                      <li>Steering Board</li>
-                      <li>Technical Program Commitee</li>
-                    </ul>
-                  </div>
+                  <a href="/commitee"><p>Committe</p></a>
+                  
                 </li>
                 <li>
-                  <a href="submit"><p>Paper Submission</p></a>
+                  <a href="/submit"><p>Paper Submission</p></a>
                 </li>
                 <li>
                   <a href="/register"><p>Registration</p></a>

@@ -12,7 +12,7 @@ function Commitee() {
             <div >
                 {commitee.map((data,index)=>(
                     <div key={index} className='row py-2 flex flex-col items-center w-full'>
-                        <h1 className='bg-[#31A649] text-white text-2xl mx-auto  mb-7 py-[5px] px-[20px]'>{data.head}</h1>
+                        <h1 className='bg-[#31619Eff] text-white text-2xl mx-auto  mb-7 py-[5px] px-[20px]'>{data.head}</h1>
                         <div className='flex flex-wrap justify-center '>
                             {
                                 data.members.map((det,ind)=>(
