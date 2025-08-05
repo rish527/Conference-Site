@@ -22,10 +22,10 @@ function Navbar() {
               </marquee>
             </div>
             <div className="right w-[41.66667%]">
-              <div className="logo2 flex flex-wrap justify-end items-end">
+              {/* <div className="logo2 flex flex-wrap justify-end items-end">
                 <a href=""><img className='w-[240px] mt-[6px] mr-[15px]' src={springerlogo} alt="" /></a>
                 <a href=""><img className='w-[240px] mt-[6px] mr-[15px]' src={shardalogo} alt="" /></a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

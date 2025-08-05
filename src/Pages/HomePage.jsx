@@ -17,7 +17,7 @@ function HomePage() {
           <About />
           <Missions />
           <Tracks />
-          <About2 />
+          {/* <About2 /> */}
         </section>
         <Footer />
         

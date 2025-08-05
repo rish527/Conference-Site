@@ -7,7 +7,7 @@ import Submission from './Pages/Submission'
 import Registration from './Pages/Registration'
 import Venue from './Pages/Venue'
 import Schedule from './Pages/Schedule'
-import Commitee from './Pages/commitee'
+import Commitee from './Pages/Commitee'
 
 function App() {
 
