@@ -1,6 +1,6 @@
 var about={
-    para1:"The International Conference on Emerging Smart Technology for Sustainable Development (ESTSD-2025) initiated by Society of Inclusive Research for Sustainable Development Department (SIRSD) under the aegis of SEED foundation, India and hosted by Sharda University, Greater Noida. The conference is technically sponsored by industries and academia through various technical and humanitarian activities. The conference for year 2025 shall be hosted by Sharda University, Greater Noida.",
-    para2:"It is planned to publish the peer reviewed and selected papers of conference as proceedings with Springer in their prestigious “Lecture Notes in Electrical Engineering” series (https://www.springer.com/series/7818). For detailed instructions for author and editors of conference proceedings, kindly visit the following link: https://www.springer.com/us/authors-editors/conference-proceedings. Select papers from the conference will be published by Springer as a proceedings book volume. Springer will conduct quality checks on the accepted papers and only papers that pass these checks will be published. Springer Nature does not charge any money for publication of Non-Open Access content. Abstracts/extended abstracts and short papers (less than 4 pages) are not considered for publication."
+    para1:"The International Conference on Emerging and Advanced Engineering Technologies is a global forum dedicated to showcasing the latest innovations, trends, and research breakthroughs in the field of engineering and technology",
+    para2:"It is planned to publish the peer reviewed and selected papers of conference as proceedings with  Taylor & Francis."
 }
 
 var objective={
