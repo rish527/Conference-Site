@@ -1,10 +1,10 @@
 export const abouttop=[
-    "The Society for Innovative Research and Sustainable Development (SIRSD) is dedicated to fostering innovative solutions that address the world’s most pressing challenges. Our mission is to promote cutting-edge research and technologies that contribute to sustainable development across diverse fields, including renewable energy, environmental conservation, health, and technology.",
+    "Omyaa Education and Research Foundation is  a non-profit organization, its aim and objectives would typically align with public benefit, capacity building, and knowledge creation.",
 
-    "Through collaborative efforts, we bring together scientists, researchers, industry leaders, and policymakers from around the globe to exchange knowledge, share resources, and develop strategies for a sustainable future. We aim to create a platform that empowers communities and industries to implement green technologies and practices that preserve our planet while promoting economic and social development.",
+    "Its aim is to bring together scholars, educators, researchers, policymakers, and industry leaders from around the world to share knowledge, present research findings, and explore solutions to pressing global challenges.",
 
-    "Our society hosts international conferences, workshops, and forums, providing a space for thought leaders to connect and collaborate on global sustainability initiatives. By supporting ground breaking research and fostering interdisciplinary cooperation, we are committed to advancing innovation and contributing to a future where science and sustainability thrive hand in hand."
+    "By organizing and supporting such international events, the foundation seeks to foster cross-cultural understanding, encourage interdisciplinary dialogue, and promote best practices in education, science, technology, and social development."
 ]
 export const aboutbot=[
-    "The Society for Innovative Research and Sustainable Development (SIRSD) under the aegis of SEED foundation is dedicated to fostering innovative solutions that address the world’s most pressing challenges. Our mission is to promote cutting-edge research and technologies that contribute to sustainable development across diverse fields, including renewable energy, environmental conservation, health, and technology."
+    "Through this global engagement, the foundation aspires to empower individuals, strengthen academic and research capacities, and contribute meaningfully to sustainable and inclusive progress worldwide."
 ]
