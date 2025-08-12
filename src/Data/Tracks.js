@@ -22,9 +22,9 @@ export const tracks={
         ]
     },
     {
-        head:"Next-Gen Computing: AI-Driven Innovations and Smart Technologies",
+        head:"Internet of Things (IoT), Blockchain, and Distributed Ledger Technologies",
         data:[
-            "AI and Machine Learning Innovations, Smart Technologies and IoT, Big Data Analytics and Cloud Computing, Cybersecurity and AI-Enabled Threat Detection, AI in Computer Vision and Robotics, AI for Software Engineering and Development, AI in Healthcare and Bioinformatics, AI in Emerging Computing Paradigms"
+            "IoT architectures and protocols, secure data management using blockchain, smart contracts for autonomous device interactions, decentralized IoT networks, privacy and trust models, blockchain-enabled supply chain and asset tracking, edge and fog computing integration, consensus algorithms, scalability challenges, and real-world implementations across industries such as healthcare, smart cities, agriculture, and manufacturing."
             
         ]
     }]
