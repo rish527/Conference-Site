@@ -4,7 +4,7 @@ var about={
 }
 
 var objective={
-    para1:"The conference will provide an opportunity to the students, scholars, practicing engineers, academicians, and researchers to meet in a forum to discuss various issues and its future direction of various emerging areas of science and technologies and impacts on sustainable development. The objective of the conference shall focus on the following outcomes."
+    para1:"To facilitate the dissemination of high-quality research, encourage interdisciplinary collaboration, and provide opportunities for participants to engage in meaningful discussions on emerging and advanced engineering technologies. The conference aims to bridge the gap between academia and industry, inspire innovation, and promote the practical application of technological advancements for societal and environmental benefit."
 }
 
 var missions=[
