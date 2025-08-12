@@ -9,5 +9,5 @@ export const foreinfee={
 
 export const bank={
     col1:['Bank Name','Branch Address', 'Account Holder Name', 'Account No.', 'IFSC Code'],
-    col2:['SBI', '	11475-ALPHA-1, Greater Noida, A3 Kaison Tower Commercial Bel, Alpha 1, Dist. Gautam Budh Nagar, Uttar Pradesh 201310','Shibani Economic Educational Development Foundation Trust', '42269909596', '	SBIN0011475']
+    col2:['SBI', 	, Greater Noida,  Commercial Belt, Alpha 1, Dist. Gautam Budh Nagar, Uttar Pradesh 201310','Omyaa Educational and Research Foundation ', '96', '	SBIN']
 }
