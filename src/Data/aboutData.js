@@ -13,7 +13,7 @@ var missions=[
     "To showcase cutting-edge technologies and scientific advances that contribute to sustainable development in sectors such as renewable energy, water management, waste reduction, climate change mitigation, and sustainable agriculture.",
     "To explore how new scientific discoveries and technologies can align with the United Nations Sustainable Development Goals (SDGs) and create pathways toward achieving a more sustainable and equitable future.",
     "To provide a platform for sharing best practices, case studies, and real-world applications of emerging technologies that have successfully addressed sustainability issues at regional, national, and international levels.",
-    "To engage policymakers and industry leaders in discussions on how emerging science and technology can be adopted in public policies and business practices to promote sustainable growth."
+    "To create a vibrant international platform that connects innovators, educators, engineers, and researchers, fostering global partnerships and driving technological progress. "
 ]
 
 export {about, objective, missions}
