@@ -10,12 +10,8 @@ export const tracks={
     {
         head:"Smart Cities and Urban Development",
         data:[
-            "Smart infrastructure and intelligent transportation systems",
-            "Urban IoT and real-time city data",
-            "Energy-efficient smart buildings",
-            "Data-Driven Urban Planning",
-            "Technological Integration in Cities",
-            "Artificial Intelligence in City Management"
+            "AI and Machine Learning Innovations, Smart Technologies and IoT, Big Data Analytics and Cloud Computing, Cybersecurity and AI-Enabled Threat Detection, AI in Computer Vision and Robotics, AI for Software Engineering and Development, AI in Healthcare and Bioinformatics, AI in Emerging Computing Paradigms",
+            
         ]
     },
     {
