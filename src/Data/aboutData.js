@@ -8,11 +8,11 @@ var objective={
 }
 
 var missions=[
-    "To bring together researchers, scientists, engineers, policymakers, and industry experts to present and discuss innovative solutions leveraging emerging science and technology to address global sustainability challenges.",
-    "To encourage interdisciplinary collaboration among experts from various fields, including environmental science, bio science, healthcare & wellness, engineering, information technology, and social sciences, for developing integrated approaches to sustainable development.",
-    "To showcase cutting-edge technologies and scientific advances that contribute to sustainable development in sectors such as renewable energy, water management, waste reduction, climate change mitigation, and sustainable agriculture.",
+    "To unite researchers, scientists, engineers, policymakers, and industry leaders to share and discuss innovative solutions that leverage emerging science and technology to address global sustainability challenges.",
+    "To foster interdisciplinary collaboration among professionals from fields such as environmental science, biosciences, healthcare, engineering, information technology, and social sciences to develop integrated approaches for sustainable development.",
+    "To showcase cutting-edge AI and ML technologies, alongside security advancements, that contribute to sustainability efforts in areas such as renewable energy optimization, water resource management, waste reduction, climate change mitigation, and sustainable agriculture.",
     "To explore how new scientific discoveries and technologies can align with the United Nations Sustainable Development Goals (SDGs) and create pathways toward achieving a more sustainable and equitable future.",
-    "To provide a platform for sharing best practices, case studies, and real-world applications of emerging technologies that have successfully addressed sustainability issues at regional, national, and international levels.",
+    "To create a collaborative platform for exchanging success stories, cutting-edge research, and practical AI and security solutions addressing sustainability challenges worldwide.",
     "To create a vibrant international platform that connects innovators, educators, engineers, and researchers, fostering global partnerships and driving technological progress. "
 ]
 
