@@ -3,7 +3,7 @@ export const tracks={
     tracks:[{
         head:"Next-Gen Computing: AI-Driven Innovations and Smart Technologies",
         data:[
-            "AI and Machine Learning Innovations, Smart Technologies and IoT, Big Data Analytics and Cloud Computing, Cybersecurity and AI-Enabled Threat Detection, AI in Computer Vision and Robotics, AI for Software Engineering and Development, AI in Healthcare and Bioinformatics, AI in Emerging Computing Paradigms",
+            "",
             
         ]
     },
