@@ -10,7 +10,7 @@ export const tracks={
     {
         head:"AI-Powered Smart Systems and Sustainable Engineering",
         data:[
-            "AI-Driven Design & Manufacturing, Intelligent Robotics & Automation, Advanced Materials & Smart Structures, Sustainable Energy Systems, Computational Fluid Dynamics & AI Applications, AI in Smart Cities & Infrastructure, Structural Health Monitoring & AI, Construction 4.0 & Automation, AI-Enabled Water Resources Management, Sustainable & Green Civil Engineering, AI in Aerospace Design & Manufacturing, Autonomous Systems & AI in Aviation, Space Exploration & AI Applications, AI in Aircraft Maintenance & Safety, Smart Propulsion & Energy Systems in Aerospace",
+            ",
             
         ]
     },
