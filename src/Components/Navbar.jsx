@@ -17,9 +17,9 @@ function Navbar() {
                 </div></a>
             </div>
             <div className="mid w-[33.333%]">
-              <marquee behavior="" direction="">
+              {/* <marquee behavior="" direction="">
                 <p className="text-base">It is seen that some authors still have not done the registration. The conference proceeding will be published in prestigious scopus indexed  Springer Lecture note series. Do not miss the opportunity. Authors are advised to do the registration by today. </p>
-              </marquee>
+              </marquee> */}
             </div>
             <div className="right w-[41.66667%]">
               {/* <div className="logo2 flex flex-wrap justify-end items-end">

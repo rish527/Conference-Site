@@ -16,7 +16,7 @@ function About() {
                     <p className='pb-20px mb-4'>{objective.para1}</p>
                 </div>
                 <div className="col2 w-[33.333%] px-3">
-                    <div className="time">
+                    {/* <div className="time">
                         <p className='mb-2 text-2xl'>CONFERENCE BEGINS IN</p>
                         <div className="timer flex mb-8">
                             <div className="day flex flex-col justify-center"><p className='num'>24</p><p className='txt'>Days</p></div>
@@ -24,7 +24,7 @@ function About() {
                             <div className="minutes"><p className='num'>24</p><p className='txt'>Minutes</p></div>
                             <div className="seconds"><p className='num'>24</p><p className='txt'>Seconds</p></div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="dates-sec pl-5">
                         <div className="hero-btn">Download CPC Here</div>
                         <br />

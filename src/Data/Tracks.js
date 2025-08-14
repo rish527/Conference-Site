@@ -10,7 +10,7 @@ export const tracks={
     {
         head:"AI-Powered Smart Systems and Sustainable Engineering",
         data:[
-            ",
+            "",
             
         ]
     },

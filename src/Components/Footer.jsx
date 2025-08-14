@@ -45,12 +45,12 @@ function Footer() {
             </div>
         </div>
         <div className="foot-bot flex justify-center py-5">
-            <div className="container flex items-center justify-evenly">
+            <div className="container flex items-center justify-between">
                 <div className='w-[330px]'><img className='w-[53px]' src={logo} alt="" /></div>
-                <div className='w-[330px]'><img src="https://estsd2025.sirsd.com/assets/images/ext-logo.jpg" alt="" /></div>
-                <div className='w-[330px]'><img className='w-[210px]' src="https://estsd2025.sirsd.com/assets/images/springer.JPG" alt="" /></div>
+                {/* <div className='w-[330px]'><img src="https://estsd2025.sirsd.com/assets/images/ext-logo.jpg" alt="" /></div>
+                <div className='w-[330px]'><img className='w-[210px]' src="https://estsd2025.sirsd.com/assets/images/springer.JPG" alt="" /></div> */}
                 <div className='w-[330px]'>
-                    <p className='text-[13px] text-right'>Copyright © estsd2025</p>
+                    <p className='text-[13px] text-right'>Copyright © iceaet2025</p>
                 </div>
             </div>
         </div>

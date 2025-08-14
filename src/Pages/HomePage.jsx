@@ -12,7 +12,7 @@ function HomePage() {
   return (
     <div >
         <Hero />
-        <Notification />
+        {/* <Notification /> */}
         <section style={{borderBottom:'1px solid #dadada', borderTop:'1px solid #dadada'}}>
           <About />
           <Missions />
