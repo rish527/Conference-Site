@@ -24,7 +24,7 @@ function Registration() {
         </div>
         <div className="note">
             <p><span className="font-bold">Note: </span>
-                Payment to be made through NEFT /IMPS / RTGS/GPay in favour of “Sibani Foundation” payable at Greater Noida,India. You will be asked to fill in the payment transaction details in the registration form. The bank details and QR code are given below.
+                Payment to be made through NEFT /IMPS / RTGS/GPay in favour of “OMYAA Education and Research Foundation” payable at Greater Noida,India. You will be asked to fill in the payment transaction details in the registration form. The bank details and QR code are given below.
             </p>
         </div>
         <div className="link">
@@ -40,11 +40,11 @@ function Registration() {
             <div className="left w-1/2 flex justify-center pr-4">
                 <Table2 fee={bank} />
             </div>
-            <div className="right w-1/2 flex justify-center pl-4">
+            {/* <div className="right w-1/2 flex justify-center pl-4">
                 <div className="qr flex justify-center">
                     <img className=' h-[800px]' src={paytm} alt="" />
                 </div>
-            </div>
+            </div> */}
         </div>
         </div>
 

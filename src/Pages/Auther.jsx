@@ -20,16 +20,16 @@ function Auther() {
             <Tracks />
         </div>
         <br />
-        <div className="line border  mx-[80px] my-[40px]"></div>
-        <br />
-        <div id='callforpapers' className="call mx-[80px]">
+        {/* <div className="line border  mx-[80px] my-[40px]"></div> */}
+        {/* <br /> */}
+        {/* <div id='callforpapers' className="call mx-[80px]">
             <h1 className='uppercase text-[#31619Eff] pb-3  text-4xl'>Call for Papers</h1>
             <ul>
                 <li>
                     <a href=""><p className='text-blue-800 underline'>  Download Call For Papers in PDF</p></a>
                 </li>
             </ul>
-        </div>
+        </div> */}
         <br />
         <div className="line border  mx-[80px] my-[40px]"></div>
         <br />

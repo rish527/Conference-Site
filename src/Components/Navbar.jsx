@@ -37,12 +37,12 @@ function Navbar() {
                   <a href="/"><p>Home</p></a>
                 </li>
                 <li>
-                  <a href="/auther"><p className='dropdown-toggle'>For Authers</p></a>
+                  <a href="/auther"><p className='dropdown-toggle'>For Authors</p></a>
                   <div className="dropdown">
                     <ul className='dropdown-menu'>
                       <li><a href="/auther#impdates">Important Dates</a></li>
                       <li><a href="/auther#alltracks">Technical Tracks</a></li>
-                      <li><a href="/auther#callforpapers">Call for Papers</a></li>
+                      {/* <li><a href="/auther#callforpapers">Call for Papers</a></li> */}
                       <li><a href="/auther#submitpaper">Paper Submissions</a></li>
                     </ul>
                   </div>

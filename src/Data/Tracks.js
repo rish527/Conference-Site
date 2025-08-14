@@ -22,6 +22,34 @@ export const tracks={
         ]
     },
     {
+        head:"5G and Next-Generation Communication Technologies",
+        data:[
+            ""
+            
+        ]
+    },
+    {
+        head:"5G and Next-Generation Communication Technologies",
+        data:[
+            ""
+            
+        ]
+    },
+    {
+        head:"5G and Next-Generation Communication Technologies",
+        data:[
+            ""
+            
+        ]
+    },
+    {
+        head:"5G and Next-Generation Communication Technologies",
+        data:[
+            ""
+            
+        ]
+    },
+    {
         head:"Internet of Things (IoT), Blockchain, and Distributed Ledger Technologies",
         data:[
             ""

@@ -5,10 +5,10 @@ import Footer from '../Components/Footer'
 function Schedule() {
   return (
     <div>
-        <MiniHero />
+        <MiniHero title="Schedule"/>
         <div className="mt-11 mb-11 mx-[80px]">
             <h1 className='uppercase text-[#31619Eff] pb-3  text-2xl'>Schedule</h1>
-            <p><a className='text-blue-800 underline' href="">Click here</a> to view International Conference on Emerging Smart Technology for Sustainable Development - ESTSD-2025 on 28th & 29th June 2025 schedule.</p>
+            <p><a className='text-blue-800 underline' href="">Click here</a> to view nternational Conference on Emerging and Advanced Engineering Technologies - ICEAET-2026 on 18th & 19th April 2026 schedule.</p>
         </div>
         <br />
         <Footer />
