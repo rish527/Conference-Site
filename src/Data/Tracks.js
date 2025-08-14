@@ -15,7 +15,7 @@ export const tracks={
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"ICT for Sustainable Development",
         data:[
             ""
             
@@ -29,21 +29,21 @@ export const tracks={
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Robotics, AI & ML, Automation in Advanced Manufacturing Processes",
         data:[
             ""
             
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Computer Science for Sustainable Development",
         data:[
             ""
             
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Innovation in Engineering, Design and Practices",
         data:[
             ""
             
