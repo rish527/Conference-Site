@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Hero() {
   return (
@@ -19,9 +20,10 @@ function Hero() {
             </div>
             
             <div className="buttons">
-                <div className="hero-btn mx-[5px]">Paper Submission</div>
-                <div className="hero-btn mx-[5px]">Payment</div>
-                <div className="hero-btn mx-[5px]">Register Now</div>
+                
+                <div className="hero-btn mx-[5px]"><Link to="/submit" >Paper Submission</Link></div>
+                <div className="hero-btn mx-[5px]"><Link to="/register" >Payment</Link></div>
+                <div className="hero-btn mx-[5px]"><Link to="/register" >Register Now</Link></div>
             </div>
 
         </div>

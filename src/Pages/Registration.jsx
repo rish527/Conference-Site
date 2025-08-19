@@ -11,9 +11,9 @@ import paytm from '../assets/paytm.webp'
 function Registration() {
   return (
     <div>
-      <MiniHero title="Registeration" />
+      <MiniHero title="Registration" />
       <div className='my-11 mx-[80px] flex flex-col gap-6'>
-        <h1 className='uppercase  pb-1  text-2xl'>Registration Free</h1>
+        <h1 className='uppercase  pb-1  text-2xl'>Registration Fee</h1>
         <div className="price w-full flex">
             <div className="left w-1/2 flex justify-center pr-4">
                 <Table row1="Indian Authers" row2="Price (INR)" fee={indianfee}/>
