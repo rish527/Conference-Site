@@ -4,7 +4,7 @@ function About2() {
   return (
     <div className='bg-[#fafafa] flex m-auto w-full justify-center p-[50px]'>
         <div className="container">
-            <h1 className='uppercase text-[#31619Eff]  mb-2 text-xl' >ABOUT SOCIETY FOR INCLUSIVE RESEARCH AND SUSTAINABLE DEVELOPMENT</h1>
+            <h1 className='uppercase text-[#31619Eff]  mb-2 text-xl' >ABOUT Omyaa Education and Research Foundation</h1>
             <br />
             <div className="data-holder flex flex-wrap">
                 <div className="left w-[50%]">

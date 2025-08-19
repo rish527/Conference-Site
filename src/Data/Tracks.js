@@ -15,7 +15,7 @@ export const tracks={
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"ICT for Sustainable Development",
         data:[
             ""
             
@@ -29,28 +29,28 @@ export const tracks={
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Robotics, Automation in Advanced Manufacturing Processes",
         data:[
             ""
             
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Data Science for Social Good",
         data:[
             ""
             
         ]
     },
     {
-        head:"5G and Next-Generation Communication Technologies",
+        head:"Innovation in Engineering, Design and Practices",
         data:[
             ""
             
         ]
     },
     {
-        head:"Internet of Things (IoT), Blockchain, and Distributed Ledger Technologies",
+        head:"Internet of Things (IoT), Blockchain, AI & ML in Cybersecurity",
         data:[
             ""
             

@@ -1,6 +1,6 @@
 var about={
     para1:"The International Conference on Emerging and Advanced Engineering Technologies is a global forum dedicated to showcasing the latest innovations, trends, and research breakthroughs in the field of engineering and technology",
-    para2:"It is planned to publish the peer reviewed and selected papers of conference as proceedings with  Taylor & Francis."
+    para2:"All accepted papers & presented at the conference will be published in conference proceedings in a Scopus-indexed series by Taylor Francis (CRC Press)."
 }
 
 var objective={
