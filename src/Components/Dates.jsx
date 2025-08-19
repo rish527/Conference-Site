@@ -6,7 +6,7 @@ function Dates() {
         <p>Paper Submission Deadline: <span>15th December, 2025</span></p>
         <p>Notification of Acceptance: <span>10th January, 2026</span></p>
         <p>Registration/ Camera Ready Deadline: <span>25th January, 2026</span></p>
-        <p>Conference Dates: <span>7th - 8th February, 2026</span></p>
+        <p>Conference Dates: <span>6th - 7th February, 2026</span></p>
     </div>
     
   )
