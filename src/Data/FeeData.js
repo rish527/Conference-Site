@@ -4,7 +4,7 @@ export const indianfee={
 }
 export const foreinfee={
     col1:["Attendee","Research Scholars/Students","Academicians","Industry"],
-    col2:[125, 350, 8500, 500]
+    col2:[125, 300, 450, 500]
 }
 
 export const bank={
