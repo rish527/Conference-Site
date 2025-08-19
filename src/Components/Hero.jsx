@@ -6,7 +6,7 @@ function Hero() {
         <div className="holder px-[64.5px] py-[20px] text-center flex flex-col justify-center items-center text-white bg-black">
             <div className="name pb-[15px] font-bold text-3xl uppercase">International Conference on Emerging and Advanced Engineering Technologies
 <br /></div>
-            <div className="date text-[26px]" style={{borderBottom:"4px #31619Eff solid"}}><strong>7<sup>th</sup> - 8<sup>th</sup> April 2026</strong></div>
+            <div className="date text-[26px]" style={{borderBottom:"4px #31619Eff solid"}}><strong>6<sup>th</sup> - 7<sup>th</sup> April 2026</strong></div>
             <div className="data py-[15px]">
                 <div className="initiate mb-4 text-[13px]">
                     <p className='text-[16px] pb-[2px] font-bold'>INITIATED BY:</p>
