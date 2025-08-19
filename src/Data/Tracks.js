@@ -29,7 +29,7 @@ export const tracks={
         ]
     },
     {
-        head:"Robotics, AI & ML, Automation in Advanced Manufacturing Processes",
+        head:"Robotics, Automation in Advanced Manufacturing Processes",
         data:[
             ""
             
