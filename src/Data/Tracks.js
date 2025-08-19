@@ -36,7 +36,7 @@ export const tracks={
         ]
     },
     {
-        head:"Computer Science for Sustainable Development",
+        head:"Data Science for Social Good",
         data:[
             ""
             
@@ -50,7 +50,7 @@ export const tracks={
         ]
     },
     {
-        head:"Internet of Things (IoT), Blockchain, and Distributed Ledger Technologies",
+        head:"Internet of Things (IoT), Blockchain, AI & ML in Cybersecurity",
         data:[
             ""
             
