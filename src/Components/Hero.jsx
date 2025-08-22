@@ -11,7 +11,7 @@ function Hero() {
             <div className="data py-[15px]">
                 <div className="initiate mb-4 text-[13px]">
                     <p className='text-[16px] pb-[2px] font-bold'>INITIATED BY:</p>
-                    <p>OMYAA Education and Research Foundation</p>
+                    <p></p>
                 </div>
                 <div className="host mb-4 text-[13px]">
                     <p className='text-[16px] pb-[2px] font-bold'>HOSTED BY:</p>
