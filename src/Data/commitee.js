@@ -37,8 +37,8 @@ export const commitee=[
         head:"Organizing Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. Danish Ather",
-                university:"Amity University in Tashkent, Uzbekistan",
+                name:"Dr. Buddha Singh",
+                university:"Jawaharlal Nehru University, Delhi",
             },
              
         ]
