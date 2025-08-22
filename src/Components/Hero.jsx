@@ -10,7 +10,7 @@ function Hero() {
             <div className="date text-[26px]" style={{borderBottom:"4px #31619Eff solid"}}><strong>24<sup>th</sup> - 25<sup>th</sup> January 2026</strong></div>
             <div className="data py-[15px]">
                 <div className="initiate mb-4 text-[13px]">
-                    <p className='text-[16px] pb-[2px] font-bold'>INITIATED BY:</p>
+                    <p className='text-[16px] pb-[2px] font-bold'></p>
                     <p></p>
                 </div>
                 <div className="host mb-4 text-[13px]">
