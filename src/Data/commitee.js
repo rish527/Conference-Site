@@ -27,8 +27,8 @@ export const commitee=[
         head:"Convenor",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. Anil Kumar Sagar",
-                university:"Department of Computer Science and Engineering, Sharda School of Computing Science and Engineering, Sharda University, Greater Noida, India.",
+                name:"Dr.Sanjoy Das",
+                university:"Indira Gandhi National Tribal University - Regional Campus Manipur, India.",
             },
              
         ]
