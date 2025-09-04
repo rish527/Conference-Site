@@ -47,8 +47,8 @@ export const commitee=[
         head:"Organizing Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. Sanjoy Das",
-                university:"Indira Gandhi National Tribal University - Regional Campus Manipur",
+                name:"Dr. Rani Astya",
+                university:"Department of Computer Science and Engineering, Sharda School of Computing Science and Engineering, Sharda University, Greater Noida, India.",
             },
              
         ]
