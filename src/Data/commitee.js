@@ -3,8 +3,8 @@ export const commitee=[
         head:"General Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Prof. Parma Nand",
-                university:"Sharda University, Greater Noida",
+                name:"Prof. D K Lobiyal",
+                university:"Professor, JNU New Delhi",
             },
             
           
@@ -15,8 +15,8 @@ export const commitee=[
         head:"General Co Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. D. K. Lobiyal",
-                university:"Professor, JNU New Delhi",
+                name:"Prof Parma Nand",
+                university:"Professor, Sharda University Greater Noida",
             },
             
             
@@ -25,6 +25,16 @@ export const commitee=[
     },
     {
         head:"Convenor",
+        members:[
+            {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
+                name:"Dr. Anil Kumar Sagar",
+                university:"Department of Computer Science and Engineering, Sharda School of Computing Science and Engineering, Sharda University, Greater Noida, India.",
+            },
+             
+        ]
+    },
+    {
+        head:"Co-Convenor",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
                 name:"Dr. Anil Kumar Sagar",
