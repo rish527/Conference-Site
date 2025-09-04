@@ -37,8 +37,8 @@ export const commitee=[
         head:"Organizing Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. Buddha Singh",
-                university:"Jawaharlal Nehru University, Delhi",
+                name:"Dr. Sanjoy Das",
+                university:"Indira Gandhi National Tribal University - Regional Campus Manipur",
             },
              
         ]
