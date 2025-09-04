@@ -15,7 +15,7 @@ function Hero() {
                 </div>
                 <div className="host mb-4 text-[13px]">
                     <p className='text-[16px] pb-[2px] font-bold'>Organised BY:</p>
-                    <p>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</p>
+                    <p>Indira Gandhi National Tribal University - Regional Campus Manipur</p>
                 </div>
             </div>
             
