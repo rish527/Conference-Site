@@ -28,7 +28,7 @@ export const commitee=[
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
                 name:"Dr.Sanjoy Das",
-                university:"Indira Gandhi National Tribal University - Regional Campus Manipur, India.",
+                university:" Professor,Indira Gandhi National Tribal University - Regional Campus Manipur, India.",
             },
              
         ]
@@ -38,7 +38,7 @@ export const commitee=[
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
                 name:"Dr. Anil Kumar Sagar",
-                university:"Department of Computer Science and Engineering, Sharda School of Computing Science and Engineering, Sharda University, Greater Noida, India.",
+                university:"Professor,  Sharda University, Greater Noida, India.",
             },
              
         ]
@@ -48,7 +48,7 @@ export const commitee=[
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
                 name:"Dr. Rani Astya",
-                university:"Department of Computer Science and Engineering, Sharda School of Computing Science and Engineering, Sharda University, Greater Noida, India.",
+                university:" Professor, Sharda University, Greater Noida, India.",
             },
              
         ]
@@ -57,7 +57,7 @@ export const commitee=[
         head:"Editorial Chair",
         members:[
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
-                name:"Dr. Anil Kumar Sagar",
+                name:"Dr. Parma Nand",
                 university:"Sharda University, Greater Noida",
             },
             {   profilePic:"https://estsd2025.sirsd.com/assets/profile-images/Prof-ram-ji-prasad.jpg",
