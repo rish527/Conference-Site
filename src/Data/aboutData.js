@@ -1,5 +1,5 @@
 var about={
-    para1:"The International Conference on Emerging Engineering Technologies and Applications  is a global forum dedicated to showcasing the latest innovations, trends, and research breakthroughs in the field of engineering and technology",
+    para1:"The International Conference on Emerging Engineering Technologies and Applications (ICEETA 2026) is a premier global forum dedicated to presenting the latest innovations, trends, and research breakthroughs in the fields of engineering and technology. The conference is proudly hosted by Indira Gandhi National Tribal University – Regional Campus, Manipur, a tribal university committed to advancing inclusive education and fostering research excellence. In collaboration with the Omyaa Education and Research Foundation, an organization dedicated to promoting education, social development, and research for societal progress, this event brings together leading academics, industry experts, and young researchers. ICEETA 2026 provides a unique platform for knowledge exchange, collaboration, and dialogue, aiming to bridge the gap between cutting-edge research and real-world applications in emerging technologies.",
     para2:"All accepted papers & presented at the conference will be published in conference proceedings in a Scopus-indexed series."
 }
 
