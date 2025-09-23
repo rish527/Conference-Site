@@ -50,7 +50,7 @@ function Footer() {
                 {/* <div className='w-[330px]'><img src="https://estsd2025.sirsd.com/assets/images/ext-logo.jpg" alt="" /></div>
                 <div className='w-[330px]'><img className='w-[210px]' src="https://estsd2025.sirsd.com/assets/images/springer.JPG" alt="" /></div> */}
                 <div className='w-[330px]'>
-                    <p className='text-[13px] text-right'>Copyright © iceaet2025</p>
+                    <p className='text-[13px] text-right'>Copyright © iceeta2025</p>
                 </div>
             </div>
         </div>

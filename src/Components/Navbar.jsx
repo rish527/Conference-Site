@@ -13,7 +13,7 @@ function Navbar() {
               <div className="left w-[25%]">
                 <a href=""><div className="logo flex items-center">
                     <img className='h-14 w-14' src={logo} alt="" />
-                    <p className='text-[#31619Eff] font-bold text-[46px]' >ICEAET</p>
+                    <p className='text-[#31619Eff] font-bold text-[46px]' >ICEETA</p>
                 </div></a>
             </div>
             <div className="mid w-[33.333%]">
