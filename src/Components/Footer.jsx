@@ -18,21 +18,21 @@ function Footer() {
         <div className='bg-[#31619Eff] w-full text-white flex justify-center items-center py-12'>
             <div className="container mx-auto flex flex-col">
                 <div className="head mb-9 px-3 text-center text-[2rem]">CONTACT US</div>
-                <nav className='flex foot justify-center'>
+                {/* <nav className='flex foot justify-center'>
                     <ul className='foot-nav flex flex-wrap'>
                         <li onClick={(e)=>selectContact(0)} id='0' className={`nav-item ${ind==0?'active':''}`}><button >Conference Chair & Co-Chair</button></li>
                         <li  onClick={(e)=>selectContact(1)} id='1' className={`nav-item ${ind==1?'active':''}`}><button>Convenor</button></li>
                         <li  onClick={(e)=>selectContact(2)} id='2'  className={`nav-item ${ind==2?'active':''}`}><button >For Publication Related Queries</button></li>
                         <li  onClick={(e)=>selectContact(3)} id='3'  className={`nav-item ${ind==3?'active':''}`}><button >For Registration Related Queries</button></li>
                     </ul>
-                </nav>
+                </nav> */}
                 <div className="data-holder flex bg-[#ffffff45] justify-between flex-wrap">
                     <div className="holder w-full flex justify-center pt-[60px] pr-[10px] pb-[40px] pl-[10px] text-base">
-                        <div className="left flex flex-col justify-center items-center w-[45%]">
+                        {/* <div className="left flex flex-col justify-center items-center w-[45%]">
                             <p>{contact[0][0]}</p>
                             <p><span>Email:</span> {contact[0][1]}</p>
                             <p>{contact[0][2]}</p>
-                        </div>
+                        </div> */}
                         <div className="right  flex flex-col justify-center items-center w-[45%]">
                             <p>{contact[1][0]}</p>
                             <p><span>Email:</span> {contact[1][1]}</p>
