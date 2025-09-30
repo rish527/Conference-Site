@@ -24,7 +24,7 @@ function Registration() {
         </div>
         <div className="note">
             <p><span className="font-bold">Note: </span>
-                Payment to be made through NEFT /IMPS / RTGS/GPay in favour of “OMYAA Education and Research Foundation” payable at Greater Noida,India. You will be asked to fill in the payment transaction details in the registration form. The bank details and QR code are given below.
+                Payment to be made through NEFT /IMPS / RTGS/GPay in favour of “OERF” payable at Greater Noida,India. You will be asked to fill in the payment transaction details in the registration form. The bank details and QR code are given below.
             </p>
         </div>
         <div className="link">
