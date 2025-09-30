@@ -16,10 +16,10 @@ function Registration() {
         <h1 className='uppercase  pb-1  text-2xl'>Registration Fee</h1>
         <div className="price w-full flex">
             <div className="left w-1/2 flex justify-center pr-4">
-                <Table row1="Indian Authers" row2="Price (INR)" fee={indianfee}/>
+                <Table row1="Indian Authors" row2="Price (INR)" fee={indianfee}/>
             </div>
             <div className="right w-1/2 flex justify-center pl-4">
-            <Table row1="Foreing Authers" row2="Price (USD)" fee={foreinfee}/>
+            <Table row1="Foreing Authors" row2="Price (USD)" fee={foreinfee}/>
             </div>
         </div>
         <div className="note">
