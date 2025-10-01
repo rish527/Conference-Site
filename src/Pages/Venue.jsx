@@ -9,7 +9,7 @@ function Venue() {
       <MiniHero title="Venue" />
       <div className="mt-11 mb-11 mx-[80px]">
         <h1 className='uppercase text-[#31619Eff] pb-3  text-2xl'>Venue</h1>
-        <p>Indira Gandhi National Tribal University, Regional Campus Manipur, Kangpokpi district, Manipur 795136, India</p>
+        <p>Sharda University, Knowledge Park III, Greater Noida, Ruhallapur, Uttar Pradesh 201310.</p>
         <br />
       </div>
       <br />
