@@ -25,7 +25,7 @@ function Submission() {
                             <a href=""><p className='text-blue-800 underline'>Download Call For Papers in PDF</p></a>
                         </li>
                         <li className='mt-2'>
-                            <a href=""><p className='text-blue-800 underline'>Download Paper Template (Microsoft Word)</p></a>
+                            <a href="https://docs.google.com/document/d/1JMsbc28ZN7GiJohAcW6ssGV0MKggXfeG/edit?usp=sharing&ouid=111437806528647793043&rtpof=true&sd=true"><p className='text-blue-800 underline'>Download Paper Template (Microsoft Word)</p></a>
                         </li>
                     </ul>
 
