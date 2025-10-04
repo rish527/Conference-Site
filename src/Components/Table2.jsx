@@ -1,5 +1,5 @@
 import React from 'react'
-import { indianfee } from '../Data/FeeData'
+// import { indianfee } from '../Data/FeeData'
 import './componet.css'
 function Table2({ fee}) {
   return (
