@@ -15,7 +15,7 @@ function Submission() {
                 <p>{paras.para1}</p>
                 <br />
                 <div className="div">
-                    <h2 className='text-2xl text-[#006da6] pb-4 mb-2'>Auther's Guidelines</h2>
+                    <h2 className='text-2xl text-[#006da6] pb-4 mb-2'>Author's Guidelines</h2>
 
                     <p className='font-bold mb-4'>Guidelines</p>
 
