@@ -1,5 +1,5 @@
 import React from 'react'
-import { indianfee } from '../Data/FeeData'
+// import { indianfee } from '../Data/FeeData'
 import './componet.css'
 function Table({row1, row2, fee}) {
   return (
@@ -15,7 +15,7 @@ function Table({row1, row2, fee}) {
             {fee.col1.map((label,index)=>(
                 <tr key={index}>
                     <td>{label}</td>
-                    <td>{indianfee.col2[index]}</td>
+                    <td>{fee.col2[index]}</td>
                 </tr>
             ))}
         </tbody>
@@ -25,4 +25,4 @@ function Table({row1, row2, fee}) {
 }
 
 export default Table
-Table
+// Table
