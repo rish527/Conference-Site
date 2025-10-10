@@ -15,7 +15,7 @@ function Venue() {
       <br />
       <div className="line border  "></div>
       <div className="mt-11 mb-11 mx-[80px]">
-        <h1 className='uppercase text-[#31619Eff] pb-3  text-2xl'>Sharda University Location Map</h1>
+        <h1 className='uppercase text-[#31619Eff] pb-3  text-2xl'>Indira Gandhi National Tribal University location Map</h1>
         <iframe
           src="https://www.google.com/maps?q=Indira+Gandhi+National+Tribal+University+-+Regional+Campus+Manipur&output=embed"
           width="100%"
