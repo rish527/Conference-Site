@@ -64,6 +64,9 @@ function Navbar() {
                   <a href="/schedule"><p>Schedule</p></a>
                 </li>
                 <li>
+                  <a href="/acknowledge"><p>CMT Acknowledgement</p></a>
+                </li>
+                <li>
                   <a href="#webfoot"><p>Contact Us</p></a>
                 </li>
                 

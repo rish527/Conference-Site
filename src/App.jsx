@@ -8,6 +8,7 @@ import Registration from './Pages/Registration'
 import Venue from './Pages/Venue'
 import Schedule from './Pages/Schedule'
 import Commitee from './Pages/Commitee'
+import Acknowledgement from './Pages/Acknowledgement'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <Route path="/venue" element={<Venue />} />
         <Route path="/schedule" element={<Schedule />} />
         <Route path="/commitee" element={<Commitee />} />
+        <Route path="/acknowledge" element={<Acknowledgement />} />
 
       </Routes>
     </div>
