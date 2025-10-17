@@ -33,9 +33,8 @@ function Registration() {
             </p>
         </div>
 
-CMT ACKNOWLEDGMENT
-"The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
 
+        <a href="cmtack.html">CMT ACKNOWLEDGMENT</a>
         
         <div className="bank">
             <h1 className='  pb-1  text-xl'>Registration Free</h1>
